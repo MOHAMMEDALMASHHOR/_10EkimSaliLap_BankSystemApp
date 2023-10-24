@@ -1,0 +1,14 @@
+C:\MYAZ203\BanksystemApp\bin\Debug\net7.0\BanksystemApp.exe
+C:\MYAZ203\BanksystemApp\bin\Debug\net7.0\BanksystemApp.deps.json
+C:\MYAZ203\BanksystemApp\bin\Debug\net7.0\BanksystemApp.runtimeconfig.json
+C:\MYAZ203\BanksystemApp\bin\Debug\net7.0\BanksystemApp.dll
+C:\MYAZ203\BanksystemApp\bin\Debug\net7.0\BanksystemApp.pdb
+C:\MYAZ203\BanksystemApp\obj\Debug\net7.0\BanksystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MYAZ203\BanksystemApp\obj\Debug\net7.0\BanksystemApp.AssemblyInfoInputs.cache
+C:\MYAZ203\BanksystemApp\obj\Debug\net7.0\BanksystemApp.AssemblyInfo.cs
+C:\MYAZ203\BanksystemApp\obj\Debug\net7.0\BanksystemApp.csproj.CoreCompileInputs.cache
+C:\MYAZ203\BanksystemApp\obj\Debug\net7.0\BanksystemApp.dll
+C:\MYAZ203\BanksystemApp\obj\Debug\net7.0\refint\BanksystemApp.dll
+C:\MYAZ203\BanksystemApp\obj\Debug\net7.0\BanksystemApp.pdb
+C:\MYAZ203\BanksystemApp\obj\Debug\net7.0\BanksystemApp.genruntimeconfig.cache
+C:\MYAZ203\BanksystemApp\obj\Debug\net7.0\ref\BanksystemApp.dll
